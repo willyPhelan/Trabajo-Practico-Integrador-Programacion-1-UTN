@@ -32,6 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename=".gitignore">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Dado6Caras.h" />
+		<Unit filename="Dado6caras.cpp" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
