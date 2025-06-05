@@ -1,3 +1,1 @@
-#pragma once
-
-void dado6caras();
+void dado6caras ();
