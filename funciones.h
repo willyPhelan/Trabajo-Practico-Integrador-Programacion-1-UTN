@@ -1,5 +1,6 @@
 #pragma once
 
 void menuPrincipal() ;
-void dado6caras () ;
+int tiradaInicial() ;
 int volver_atras() ;
+void tiradaDado6caras();

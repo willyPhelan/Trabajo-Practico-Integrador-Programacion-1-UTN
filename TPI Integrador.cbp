@@ -35,11 +35,10 @@
 		<Unit filename=".gitignore">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="Dado6Caras.h" />
-		<Unit filename="Dado6caras.cpp" />
-		<Unit filename="Menu.cpp" />
-		<Unit filename="Menu.h" />
+		<Unit filename="dado6caras.cpp" />
+		<Unit filename="funciones.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>

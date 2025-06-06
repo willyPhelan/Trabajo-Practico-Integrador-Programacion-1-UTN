@@ -6,6 +6,9 @@ using namespace std ;
 
 int random, volver=-99999 ;
 
+
+// primer tirada para cada jugador
+
 void dado6caras(){
 
     srand(time(0)) ;
@@ -19,6 +22,8 @@ void dado6caras(){
             cout << "Salio el numero 1" << endl << endl ;
 
             volver_atras() ;
+
+            dado6carasSegundoJugador() ;
 
         break ;
 
