@@ -38,6 +38,8 @@
 		<Unit filename="dado12caras.cpp" />
 		<Unit filename="dado6caras.cpp" />
 		<Unit filename="funciones.h" />
+		<Unit filename="funcionesArrays.cpp" />
+		<Unit filename="funcionesEstadoJuego.cpp" />
 		<Unit filename="jugar.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="menu.cpp" />
