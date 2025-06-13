@@ -24,3 +24,11 @@ int posicionNumeroEnVector(int v[],int tam, int numero);/// devuelve la posiciï¿
 void copiarVector(int v[], int v2[],int tam ); ///copia el vector v en v2
 
 bool _eliminarPrimerOcurrencia(int arr[], int &cant, int valor);
+
+int posicionNumeroEnVector(int v[],int tam, int numero);
+bool _eliminarPrimerOcurrencia(int arr[], int &cant, int valor);
+void copiarVector(const int v[], int v2[], int tam);
+
+
+
+void mostrarDadosNoCero(const int dados[], int cantidadDados); // Nueva funciÃ³n

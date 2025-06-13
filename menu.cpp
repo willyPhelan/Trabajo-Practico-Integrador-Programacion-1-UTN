@@ -9,7 +9,7 @@ void menuPrincipal(){
 
     cout << "BIENVENIDO A ENFRENDADOS!" << endl ;
 
-    cout << endl <<"Ingrese una opcion: "  << endl ;
+    cout << endl << "Ingrese una opcion: "  << endl ;
 
     cout << endl << "1 - Para Jugar" << endl ;
 
@@ -44,7 +44,7 @@ void menuPrincipal(){
 
             system("cls") ;
 
-            jugar();
+            jugar() ;
 
         break ;
 
